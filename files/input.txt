@@ -1,0 +1,12 @@
+Juan,01,Portero
+Jose,02,DefensaLuis,03,Defensa
+
+
+Melo,04,Defensa
+Vict,05,Defensa
+Serg,06,Defensa
+Dafn,07,Medio
+Mati,08,Medio
+Daya,09,Medio
+Sant,10,Delantero
+Jord,11,Delantero
