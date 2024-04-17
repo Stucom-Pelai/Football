@@ -50,8 +50,7 @@ public class Equipo2 {
 		Equipo2 equipo1 = new Equipo2();
 		equipo1.presionar();
 		
-		// modificadores
-		//
+		// modificadores		
 		
 		//jug1.altura=0.0;
 		Arbitro arb = new Arbitro();
