@@ -4,7 +4,7 @@ public class Persona {
 	protected String nombre;
 	protected double altura;
 	protected double peso;
-	protected int edad;	
+	 int edad;	
 	protected static String genero="masculino";
 	
 	
